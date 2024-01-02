@@ -1,3 +1,5 @@
+// Learning: https://nextjs.org/docs/app/building-your-application/routing/defining-routes#creating-ui
+
 import Image from 'next/image'
 
 export default function Home() {
